@@ -1,0 +1,11 @@
+House_Area_sqft,Number_of_Bedrooms,Number_of_Bathrooms,Number_of_Floors,Parking_Spaces,Property_Age_Years,Distance_to_City_Center_km,Nearby_Schools_Count,Nearby_Hospitals_Count,Price_INR
+1200,2,2,1,1,10,12,3,2,4500000
+1500,3,2,2,2,5,8,5,3,6200000
+1800,3,3,2,2,3,5,6,4,8500000
+2200,4,3,2,3,2,3,8,5,12000000
+2500,4,4,3,3,1,2,9,6,15000000
+1400,2,2,1,1,8,10,4,3,5000000
+1700,3,3,2,2,4,6,5,4,7800000
+2000,4,3,2,2,3,4,7,5,10500000
+2800,5,4,3,4,1,2,10,7,18000000
+3000,5,5,3,4,1,1,10,8,22000000
